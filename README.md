@@ -57,6 +57,11 @@ Now cover the DK Bongos with the painter tape to tightly join the buckets to the
 **THIS STEP SHOULD BE THE LAST ONE AND ONLY DO IT WHEN YOU ARE SURE THAT EVERYTHING WORKS.**
 <img width="935" height="524" alt="681a9ef7-0792-4786-8613-29ff348306c3" src="https://github.com/user-attachments/assets/38b98c3f-3744-4ebc-a319-dc77386050c4" />
 
+## To do:
+- Make a .stl file to print the case with a 3d printer
+- Test if it is compatible with emulators using a Gamecube PC adapter
+- Update the code so instead of emulating a normal Gamecube controller simulating the movement of the DK Bongos, emulate the actual DK Bongos.
+
 
 ## Disclaimer
 I only tested with an original Wii, it should work with Gamecube too though. 
