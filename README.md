@@ -42,11 +42,11 @@ Now you can start building the bongos, cut 1 hole in 1 bucket and 2 holes (one f
 
 Attach the piezo disks to the silicone lids, I ended up using 2 lids for each disk because I couldn't find any way to glue them to the silicone rubber so I made a silicone lid sandwich having one disk between the lids.
 
+<img width="500" height="550" alt="fa0d0a13-d3e8-49d8-acbf-744ab95df1dc" src="https://github.com/user-attachments/assets/0a189d03-5430-4f07-836c-78e75b661154" />
+
 After that, now you can hot glue the protoboard and Arduino to the box that should be between the buckets. Hot glue the microphone to be on top of the box and the start button facing the player.
 
 **It is highly recommended to cut an opening to access the micro usb of the Arduino board in case that you need to make adjustments to the code.**
-
-<img width="500" height="550" alt="fa0d0a13-d3e8-49d8-acbf-744ab95df1dc" src="https://github.com/user-attachments/assets/0a189d03-5430-4f07-836c-78e75b661154" />
 
 <img width="500" height="550" alt="e02cd7cf-954e-4278-9ab2-de57c435b278" src="https://github.com/user-attachments/assets/d9f8a7ec-1031-45a2-97fd-4310a0e6b825" />
 
